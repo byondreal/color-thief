@@ -30,7 +30,7 @@
       "url": "https://raw.githubusercontent.com/lokesh/color-thief/master/LICENSE/"
     }
   ],
-  "main": "dist/color-thief.min.js",
+  "main": "src/color-thief",
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-compass": "^0.7.2",
