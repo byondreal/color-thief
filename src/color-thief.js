@@ -137,6 +137,9 @@ ColorThief.prototype.getPalette = function(sourceImage, colorCount, quality) {
     return palette;
 };
 
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = ColorThief;
+}
 
 
 
